@@ -14,4 +14,4 @@ O que estou fazendo:
 |  [x] Curso fullStack oneBitCode
     []Faculdade de SI
 
-<img alt="gif legal" title="Readme" src="https://media0.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.webp?cid=ecf05e477ieb47qv524p3h9emcmzfp4bakds4z5on12egzu9&rid=giphy.webp&ct=g">
+<img alt="gif legal" title="Readme" aling="center" src="https://media0.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.webp?cid=ecf05e477ieb47qv524p3h9emcmzfp4bakds4z5on12egzu9&rid=giphy.webp&ct=g">
