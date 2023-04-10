@@ -6,16 +6,14 @@
 </p>
 
 # sobre
-<p>Eu tenho 21 anos e estou em busca de me tornar um desenvolvedor fullStack e para isso estou estou na faculdade e passo horas e horas por dia estudando!</p>
+<p>Eu tenho 22 anos e estou em busca de me tornar um desenvolvedor e para isso estou estou na faculdade de Analise e Desenvolvimento de Sistemas, além de cursos extra curriculares </p>
 
 O que estou fazendo:
 - [x] Cursando Analise e Desenvolvimento de Sistemas (UNISUL);
 - [x] Curso fullStack oneBitCode;
-- [x]  Aprendendo javaScript;
-- [x]  Melhorando minhas habilidades em programação
+- [x] Aprofundando meus conhecimentos em programação;
 
 # tecnologias
-<h3>Estou estudando:</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=45px height=45px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=45px height=45px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=45px height=45px />
           
