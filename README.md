@@ -6,7 +6,7 @@
 </p>
 
 # sobre
-<p>Eu tenho 22 anos e estou em busca de me tornar um desenvolvedor e para isso estou estou na faculdade de Analise e Desenvolvimento de Sistemas, além de cursos extracurriculares </p>
+<p>Eu tenho 22 anos e estou em busca de me tornar um desenvolvedor, para isso estou estou na faculdade de Analise e Desenvolvimento de Sistemas, além de cursos extracurriculares </p>
 
 O que estou fazendo:
 - [x] Cursando Analise e Desenvolvimento de Sistemas (UNISUL);
