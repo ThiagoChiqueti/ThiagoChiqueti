@@ -1,16 +1,17 @@
 
-## 🚀 Sobre mim
-Olá, meu nome é **Thiago Chiqueti**, tenho 22 anos e sou um estudante de desenvolvimento fullstack. Atualmente, meu foco está em HTML, CSS e JavaScript, e estou sempre procurando novas oportunidades de aprender e aprimorar minhas habilidades. Sou fascinado pelo mundo da programação e estou constantemente me mantendo atualizado sobre as tendências e as novas tecnologias emergentes no campo.
+## 🚀 About Me
+Hi, my name is Thiago! I'm looking for my first opportunity in the world of programming, meanwhile I'm studying about fullstack development, some technologies are React, Sass, Bootstrap, Mongo, javaScript and Typescript
 
 
-## Objetivos
+## My Goals
 
-Atualmente, meu principal objetivo é encontrar meu primeiro emprego na área de programação. Estou buscando uma posição que me permita aplicar minhas habilidades em HTML, CSS e JavaScript, e que me proporcione a oportunidade de aprender e crescer como desenvolvedor fullstack. Estou aberto para trabalhar em diferentes projetos e tecnologias, e estou comprometido em contribuir para uma equipe dinâmica e inovadora. Estou animado para começar minha carreira na área de programação e estou disposto a trabalhar duro para alcançar meus objetivos.
-## Stacks
+My main goal at the moment is to find a job where I can learn and develop my skills.
 
-**Front-end:** HTML5, CSS3
 
-**Back-end:** JavaScript
+## Knowledge
+
+*Languages*
+JavaScript & Typescript
 
           
 
