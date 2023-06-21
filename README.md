@@ -20,7 +20,7 @@ During application development, the main learning is resilience and perseverance
 
 We can talk and exchange knowledge, contact me at the following link: 
 
-[Instagram](www.instagram.com/chiqueti_thiago)
+[Instagram](https://www.instagram.com/chiqueti_thiago)
 
 or
 
