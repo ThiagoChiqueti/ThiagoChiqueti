@@ -1,22 +1,30 @@
 
-## 🚀 About Me
-Hi, my name is Thiago! I'm looking for my first opportunity in the world of programming, meanwhile I'm studying about fullstack development, some technologies are React, Sass, Bootstrap, Mongo, javaScript and Typescript
+# About Me 🚀
+
+Hi, my name is Thiago! I'm looking for my first opportunity in the world of programming, meanwhile I'm studying about fullstack development, some technologies are React, Sass, Bootstrap, MongoDb, javaScript and Typescript
 
 
-## My Goals
+## Stack
 
-My main goal at the moment is to find a job where I can learn and develop my skills.
+**Knowledge** React, JavaScript, TypeScript, Bootstrap, HTML, CSS, Sass, GIT & GitHub e MongoDb
 
 
-## Knowledge
 
-**Tecnologies*
+## Learning
 
-React
-JavaScript & Typescript
-HTML & CSS
-SASS
+During application development, the main learning is resilience and perseverance to achieve the goal and successfully deliver a task.
+
+
+
+## Contact
+
+We can talk and exchange knowledge, contact me at the following link: 
+
+[Instagram](www.instagram.com/chiqueti_thiago)
+
+or
+
+[LinkedIn](https://www.linkedin.com/in/thiago-chiqueti-bastos-rodrigues-0aa7811a3/)
+
 
           
-
-
