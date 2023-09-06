@@ -6,7 +6,7 @@ Hi, my name is Thiago! I'm looking for my first opportunity in the world of prog
 
 ## Stack
 
-**Knowledge** React, JavaScript, TypeScript, Bootstrap, HTML, CSS, Sass, GIT & GitHub e MongoDb
+React, JavaScript, TypeScript, TailWind GIT & GitHub e MongoDb
 
 
 
