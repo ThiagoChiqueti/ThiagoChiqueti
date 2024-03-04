@@ -1,12 +1,12 @@
 
 # About Me 🚀
 
-Hi, my name is Thiago! I'm looking for my first opportunity in the world of programming, meanwhile I'm studying about fullstack development, some technologies are React, Sass, Bootstrap, MongoDb, javaScript and Typescript
+Hi! I'm 23 developer based in Itapema, Santa Catarina - Brasil. My focus is backend development and I also know something about frontend.
 
 
-## Stack
+## Stack & Techs
 
-React, JavaScript, TypeScript, TailWind GIT & GitHub e MongoDb
+React/Next, Python, JavaScript, TypeScript, NodeJs TailWind, GIT & GitHub, MongoDb, Docker, Postgres
 
 
 
@@ -18,13 +18,4 @@ During application development, the main learning is resilience and perseverance
 
 ## Contact
 
-We can talk and exchange knowledge, contact me at the following link: 
-
-[Instagram](https://www.instagram.com/chiqueti_thiago)
-
-or
-
 [LinkedIn](https://www.linkedin.com/in/thiago-chiqueti-bastos-rodrigues-0aa7811a3/)
-
-
-          
