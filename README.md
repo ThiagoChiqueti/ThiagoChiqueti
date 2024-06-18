@@ -1,7 +1,9 @@
 
-# About Me 🚀
+# Olá, me chamo Thiago! 
+## Bem vindo ao meu perfil GitHub 👋
 
-Hi! I'm 23 developer based in Itapema, Santa Catarina - Brasil. My focus is backend development and I also know something about frontend.
+![Snake animation](https://github.com/ThiagoChiqueti/ThiagoChiqueti/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ## Stack & Techs
