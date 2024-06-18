@@ -10,9 +10,10 @@
 
 
 
-## Stack & Techs
+## Estou aprendendo
 
-React/Next, Python, JavaScript, TypeScript, NodeJs TailWind, GIT & GitHub, MongoDb, Docker, Postgres
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 
 
