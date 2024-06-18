@@ -1,6 +1,5 @@
 
-# Olá, me chamo Thiago! 
-## Bem vindo ao meu perfil GitHub 👋
+# Olá, me chamo Thiago! 👋 
 
 ##  Meu foco
 Busco desenvolver soluções sólidas e robustas, seja uma API REST ou automação, o importante é solucionar o problema. Além de me preocupar com a parte de DevOps dos meus projetos.
