@@ -2,7 +2,7 @@
 # Olá, me chamo Thiago! 👋 
 
 ##  Meu foco
-Busco desenvolver soluções sólidas e robustas, seja uma API REST ou automação, o importante é solucionar o problema. Além de me preocupar com a parte de DevOps dos meus projetos.
+Sou apaixonado por tecnologia e desenvolvimento de software. Meu foco é criar soluções robustas e eficientes, seja uma API REST ou um sistema de automação. Além disso, gosto de cuidar da parte de DevOps dos meus projetos, garantindo que tudo funcione perfeitamente do início ao fim.
 
 <img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/><img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/><img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40" /><img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
 
@@ -13,9 +13,9 @@ Busco desenvolver soluções sólidas e robustas, seja uma API REST ou automaç�
           <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=ThiagoChiqueti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
           
-## Estudos
+## Estudos e Experiências
 
-Atualmente estou cursando o último semestre do curso tecnólogo de Análise e Desenvolvimento de Sistemas & fazendo um estágio de desenvolvimento no Grupo Berlanda.
+Atualmente, estou no último semestre do curso tecnólogo de Análise e Desenvolvimento de Sistemas. Durante meu estágio no Grupo Berlanda, tenho trabalhado com desenvolvimento de soluções para automatizar processos internos e APIs com Python, além do uso de Docker para fazer a aplicação rodar em qualquer ambiente, o que tem sido uma experiência valiosa para aprimorar minhas habilidades práticas.
 
 
 
