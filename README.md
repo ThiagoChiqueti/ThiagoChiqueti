@@ -2,7 +2,11 @@
 # Olá, me chamo Thiago! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-![Snake animation](https://github.com/ThiagoChiqueti/ThiagoChiqueti/blob/output/github-contribution-grid-snake.svg)
+<div>
+<a href="https://github.com/ThiagoChiqueti">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?ThiagoChiqueti&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoChiquetii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 
