@@ -20,6 +20,7 @@ Atualmente, estou no último semestre do curso tecnólogo de Análise e Desenvol
 
 
 ## Contatos:
+Fique à vontade para entrar em contato comigo:
 
 <div>
 
